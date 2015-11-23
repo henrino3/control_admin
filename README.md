@@ -1,4 +1,5 @@
-# Material Lite
+# Control Admin &#8482; 
+an angularjs admin dashboard..
 
 --------------
 
